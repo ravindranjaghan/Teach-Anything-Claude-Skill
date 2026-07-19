@@ -16,7 +16,7 @@ Step 3: Open Claude(online or desktop app). In the sidebar you will see a custom
 
 Step 4: Select the ZIP file to upload into the upload section no the folder.
 
-Step 5: Go to a New chat and type "/Teach-Anything and start using the skill!
+Step 5: Go to a New chat and type "/rapid-mastery" and start using the skill!
 
 Enjoy using the skill and mastering in other skills:)
 
